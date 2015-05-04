@@ -1,0 +1,9 @@
+﻿Build started 4/22/15 10:14:03 PM.
+     1>Project "\\psf\Home\Desktop\580\cpu_ray_tracer\cpu_ray_tracer.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         cpu_ray_tracer.vcxproj -> \\psf\Home\Desktop\580\cpu_ray_tracer\Release\cpu_ray_tracer.exe
+     1>Done Building Project "\\psf\Home\Desktop\580\cpu_ray_tracer\cpu_ray_tracer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
